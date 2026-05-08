@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip3 list *)",
+      "Bash(snap list *)",
+      "Bash(flatpak list *)"
+    ]
+  }
+}
